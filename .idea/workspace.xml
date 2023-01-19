@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="709e5319-19d7-49b2-8518-0281fac29b41" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/BrowserRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/BrowserRule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pom/RegistrationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pom/RegistrationPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/BrowserRule.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pom/LoginPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pom/MainPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pom/PasswordRecoverPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pom/PersonalCabinet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pom/RegistrationPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stellarburgers_tests/ConstructorTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stellarburgers_tests/LogInTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stellarburgers_tests/PersonalCabinetTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stellarburgers_tests/RegistrationTests.class" beforeDir="false" />
-    </list>
+    <list default="true" id="709e5319-19d7-49b2-8518-0281fac29b41" name="Changes" comment="1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +28,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -51,9 +40,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/alinaslugina/Diplom_3"
+  }
+}]]></component>
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/.idea" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
